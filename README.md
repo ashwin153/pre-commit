@@ -1,4 +1,3 @@
-# pre-commit-vagrant
 A collection of [pre-commit] hooks for [Vagrant].
 
 ## vagrant-validate
