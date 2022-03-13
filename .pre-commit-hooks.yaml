@@ -1,9 +1,3 @@
-- id: sort-package-json
-  name: Sort package.json
-  description: Sorts the contents of package.json files
-  language: node
-  files: "package.json"
-  entry: sort-package-json
 - id: vagrant-validate
   name: Validate Vagrantfile
   description: Runs vagrant validate to validate Vagrantfiles
